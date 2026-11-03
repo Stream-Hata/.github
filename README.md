@@ -1,3 +1,5 @@
+[SH.png]
+
 # StreamHata
 
 **An open-source streaming ecosystem built for streamers, by a developer who wanted something better.**
