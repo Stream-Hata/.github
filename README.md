@@ -1,4 +1,4 @@
-[SH.png]
+![](SH.png)
 
 # StreamHata
 
